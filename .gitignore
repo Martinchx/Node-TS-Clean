@@ -1,0 +1,19 @@
+# Envs
+.env
+
+# Node
+node_modules/
+
+# Docker Containers
+mongo/
+postgres/
+
+# Build
+dist/
+build/
+
+# Testing
+coverage/
+
+# Configs
+.vscode
